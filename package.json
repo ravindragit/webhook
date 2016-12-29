@@ -1,5 +1,5 @@
 {
-  "name": "wh",
+  "name": "h5gs",
   "version": "1.0.48",
   "description": "Webhook is the easiest way to build a custom CMS for your next website.",
   "keywords": [
@@ -9,10 +9,10 @@
     "static site generator"
   ],
   "main": "index.js",
-  "bin": "./bin/wh",
+  "bin": "./bin/h5gs",
   "repository": {
     "type": "git",
-    "url": "git://github.com/webhook/webhook.git"
+    "url": "git://github.com/ravindragit/webhook.git"
   },
   "author": {
     "name": "Ian Kelly"
