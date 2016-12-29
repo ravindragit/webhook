@@ -15,7 +15,7 @@
     "url": "git://github.com/ravindragit/webhook.git"
   },
   "author": {
-    "name": "Ian Kelly"
+    "name": "Ravindra Maurya"
   },
   "engines": {
     "node": ">= 0.10.24"
@@ -23,10 +23,10 @@
   "license": "MIT",
   "preferGlobal": "true",
   "bugs": {
-    "url": "https://github.com/webhook/webhook/issues",
-    "email": "support@webhook.com"
+    "url": "https://github.com/ravindragit/webhook/issues",
+    "email": "support@h5.gs"
   },
-  "homepage": "http://www.webhook.com/",
+  "homepage": "http://h5.gs/",
   "readmeFile": "README.md",
   "dependencies": {
     "commander": "~2.1.0",
